@@ -11,9 +11,14 @@ This project is built on Unreal Engine 5 and serves as the foundation for our ex
 - **Working Files:** All necessary files and assets are included and should be functional.
 - **Bugs:** There are some known bugs present in the current build. We are actively addressing them.
 
+## Bugs that are fixed
+
+1. Attributes array is working, code was incorrect
+
 ## Bugs to be Addressed
 
-1. Attributes Array is not reading attributes 
+1. Navmesh for some reason not rendering 
+2. Enemy seems to only turn in the left direction correctly (probably enumeration script is incorrect somewhere)
 
 ## Prerequisites
 
