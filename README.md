@@ -7,6 +7,16 @@ Welcome to the Unreal Engine 5 project for our retro-inspired first-person shoot
 This project is built on Unreal Engine 5 and serves as the foundation for my exciting retro FPS game. While the files are generally in working order, please be aware of some slight bugs that need attention. I am actively working on fixing these issues.
 The game works perfectly as of now, just note that the level is basic. 
 
+## some pictures of how it looks
+
+![main game view](https://github.com/sjpjoshi/Retro-FPS/blob/main/pictures/main%20game%20view.png)
+
+![weapon drops](https://github.com/sjpjoshi/Retro-FPS/blob/main/pictures/weapon%20drops.png)
+
+![item drops](https://github.com/sjpjoshi/Retro-FPS/blob/main/pictures/item%20drops.png)
+
+![enemy](https://github.com/sjpjoshi/Retro-FPS/blob/main/pictures/enemy.png)
+
 ## Current Status
 
 - **Working Files:** All necessary files and assets are included and should be functional.
